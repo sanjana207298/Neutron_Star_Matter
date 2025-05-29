@@ -1,4 +1,4 @@
-# Probing\_Neutron\_Star\_Matter\_Using\_Multimessenger\_Timing\_Results
+# Probing Neutron Star Matter Using Multimessenger Timing Results
 
 This repository contains the code for my undergraduate thesis (PHY-4002-1) in Physics, conducted at Ashoka University.
 
